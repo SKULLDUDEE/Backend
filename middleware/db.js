@@ -5,6 +5,7 @@ import User from '../modal/user-modal.js';
 
 configDotenv();
 const { MONGO_URI, SALT } = process.env;
+console.log('MongoDB URI:', MONGO_URI); // Debugging line to check the URI
 
 // Connect to MongoDB
 const connectDB = async () => {
