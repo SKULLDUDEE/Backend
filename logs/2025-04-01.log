@@ -1,0 +1,1 @@
+{"ip":"::1","level":"error","message":"Invalid credentials, email or password is incorrect","method":"POST","stack":"Error: Invalid credentials, email or password is incorrect\n    at postLogin (file:///Users/rajat/Library/Mobile%20Documents/com%7Eapple%7ECloudDocs/HOGYA/cnnct%20be/controller/auth.js:28:25)","status":409,"timestamp":"2025-04-01T01:54:53.823Z","url":"/auth/login"}
